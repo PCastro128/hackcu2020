@@ -21,24 +21,32 @@ function hex()      //maybe deal with 0x if it shows up,,,,,,,,, maybe,,,,, idk,
   //print statement saying this is binary form
   hexToDecimal();
   //print statment saying this is hex form
-  hextToBinary();
+  hexToBinary();
 }
 
 function hexToDecimal()
 {
+  var nums = "0123456789";
+  var arr = get_input.split('');
+  var sum = 0;
+  for(var i = arr.length - 1; i>=0; ++i){
+
+  }
   
+
 }
 
 
 function binary()
 {
-  
+  binaryToDecimal();
+  binaryToHex(binaryt)
 }
 
 
 function binaryToDecimal()
 {
-  var n = parseInt(get_input());         //placeholder for now while we figure out selection
+  var n = parseInt(get_input());       
 
   var toDecSum = 0;
   var exp = 1;
@@ -59,7 +67,7 @@ function decimal()
 
 function decimalToBinary()
 {
-  var n = parseInt(get_input());              //placeholder for now while we figure out selection
+  var n = parseInt(get_input());          
   var toBinArr = [];
   while(n > 0){
     var x = n % 2;
