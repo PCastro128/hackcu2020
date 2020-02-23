@@ -26,3 +26,6 @@ Highlight a number, click the extension icon on the top right of the page, selec
 
 ### Inspiration
 The creators of the PC Jackal extension are freshmen who are currently enrolled in Computer Systems at CU Boulder. Shoutout to CSCI 2400 for inspiring the project lol!
+
+### What We Learned Over the Course of the Day
+Two of our members learned JavaScript and CSS. All of us learned how to make a Chrome Extension, how to use HTML, and that it is best to enter the HackCU lunch line early because it gets really long really fast. 
