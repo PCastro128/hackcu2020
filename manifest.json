@@ -1,7 +1,7 @@
 {
-  "name": "PC-Jackal",
+  "name": "PC-Jackal: Base Converter",
   "version": "1.0",
-  "description": "HackCU 2020 Project - Converts the highlighted number into different bases.",
+  "description": "Converts the number highlighted in the browser to and from many bases. All bases between base 2 and base 36 (inclusive) are supported.",
   "manifest_version": 2,
   "permissions": ["activeTab", "tabs", "<all_urls>"],
   "browser_action": {
